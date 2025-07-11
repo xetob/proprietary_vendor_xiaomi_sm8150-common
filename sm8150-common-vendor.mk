@@ -475,9 +475,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.imsrtpservice@3.0-service-Impl \
     vendor.qti.imsrtpservice@3.0_vendor \
     vendor.qti.latency@2.0 \
-    capi_v2_aptX_CLHDAD_Encoder \
-    capi_v2_aptX_Classic \
-    capi_v2_aptX_HD \
+    vendor_lib_rfsa_adsp_capi_v2_aptX_CLHDAD_Encoder_so \
+    vendor_lib_rfsa_adsp_capi_v2_aptX_Classic_so \
+    vendor_lib_rfsa_adsp_capi_v2_aptX_HD_so \
     com.qualcomm.qti.ant@1.0 \
     com.qualcomm.qti.wifidisplayhal@1.0 \
     libmmosal \
