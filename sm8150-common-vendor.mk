@@ -583,7 +583,6 @@ PRODUCT_PACKAGES += \
     pm-service \
     port-bridge \
     power_off_alarm \
-    ppd \
     qrtr-cfg \
     qrtr-lookup \
     qrtr-ns \
