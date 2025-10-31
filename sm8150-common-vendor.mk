@@ -604,6 +604,9 @@ PRODUCT_PACKAGES += \
     wfdservice \
     wfdservice64
 
+PRODUCT_BOOT_JARS += \
+    WfdCommon
+
 ifeq ($(TARGET_HAS_FM),true)
 
 PRODUCT_COPY_FILES += \
